@@ -1,0 +1,3 @@
+[submodule "AdventSecrets"]
+	path = AdventSecrets
+	url = git@github.com:atnguyen1/AdventSecrets
